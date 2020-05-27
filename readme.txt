@@ -1,0 +1,6 @@
+1. Install Requirement.txt dependencies.
+2. Open Cmd in current working directory.
+3. Type python (address to manage.py) runserver
+4.Go to "localhost:8000" in your browser...
+
+Hope you like it.........
